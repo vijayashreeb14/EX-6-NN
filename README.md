@@ -1,4 +1,4 @@
-3>VIJAYASHREE B</H3>
+<H3>VIJAYASHREE B</H3>
 <H3>212223040238 NO.</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
@@ -16,7 +16,7 @@ Step 8:Make predictions on the testing set using mlp.predict(X_test).<BR>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<BR>
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
-<H3>Program: </H3>
+Program:
 ~~~
 import numpy as np
 import pandas as pd
@@ -50,7 +50,7 @@ plt.ylabel("Training Loss")
 plt.show()
 ~~~
 
-<H3>Output:</H3>
+Output:
 
 ![image](https://github.com/user-attachments/assets/721de906-28f0-4d4a-9ffe-b595e8cd2ccb)
 
