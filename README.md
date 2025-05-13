@@ -1,5 +1,5 @@
 <H3>VIJAYASHREE B</H3>
-<H3>212223040238 NO.</H3>
+<H3>212223040238 </H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
@@ -51,9 +51,12 @@ plt.ylabel("Training Loss")
 plt.show()
 ```
 
-Output:
+<H3>Output:</H3>
 
 ![image](https://github.com/user-attachments/assets/721de906-28f0-4d4a-9ffe-b595e8cd2ccb)
+
+![image](https://github.com/user-attachments/assets/c264280f-698d-44df-ba55-5e7486fbf19d)
+
 
 
 <H3>Results:</H3>
